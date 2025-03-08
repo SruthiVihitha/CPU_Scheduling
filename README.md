@@ -51,10 +51,10 @@ Run the executable:
 
 | ▓▓ | ▓▓ | ▓▓ | ▓▓ | ▓▓ |  
 
-### **Outputs:
-### **SJF SCHEDULING:
+### **Outputs:**
+### **SJF SCHEDULING:**
 ![image](https://github.com/user-attachments/assets/a4c70751-b07c-4e71-973c-6f1b1491dbbf)
-### **PRIORITY SCHEDULING:
+### **PRIORITY SCHEDULING:**
 ![image](https://github.com/user-attachments/assets/c3c0ef9e-deae-4bf1-8042-9cced2dc4892)
 
 
