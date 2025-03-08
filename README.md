@@ -1,7 +1,7 @@
 **README - Process Scheduler using GTK**
 
 ### Overview
-This project implements a **Process Scheduling Simulation** using **GTK+** for the graphical user interface. It provides scheduling for **Shortest Job Next (SJN) Non-Preemptive** and **Priority Scheduling Non-Preemptive** algorithms.
+This project implements a **Process Scheduling Simulation** using **GTK+** for the graphical user interface. It provides scheduling for **Shortest Job First (SJF) Non-Preemptive** and **Priority Scheduling Non-Preemptive** algorithms.
 
 ### Features
 - **Graphical User Interface (GUI)** using GTK+.
@@ -13,7 +13,7 @@ This project implements a **Process Scheduling Simulation** using **GTK+** for t
 
 ### Prerequisites
 - **GTK+ 3** installed on the system.
-- **GCC compiler** for compilation.
+- **GCC compiler**(**MSYS64 compiler**) for compilation.
 
 ### Installation & Compilation
 Ensure you have GTK installed. If not, install it using:
